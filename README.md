@@ -1,4 +1,13 @@
-# todo-app
+# VueJS-simple-todo-vuex-example
+
+A quick repository made during a demo about:
+- Vue
+- Vue CLI
+- Vue Router
+- Vuex
+
+It let's the user add tasks and remove them.
+There is no data persistance.
 
 ## Project setup
 ```
