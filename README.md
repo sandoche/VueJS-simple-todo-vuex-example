@@ -9,6 +9,8 @@ A quick repository made during a demo about:
 It let's the user add tasks and remove them.
 There is no data persistance.
 
+Check the demo here: https://vuejs-vuex-todo.netlify.com
+
 ## Project setup
 ```
 yarn install
