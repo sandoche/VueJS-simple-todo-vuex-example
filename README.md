@@ -1,5 +1,9 @@
 # VueJS-simple-todo-vuex-example
 
+[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](/LICENSE)
+[![Medium Badge](https://badgen.net/badge/icon/medium?icon=medium&label)](https://medium.com/@sandoche)
+[![Twitter: sandochee](https://img.shields.io/twitter/follow/sandochee.svg?style=social)](https://twitter.com/sandochee)
+
 A quick repository made during a demo about:
 - Vue
 - Vue CLI
